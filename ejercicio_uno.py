@@ -1,5 +1,6 @@
 #FUNCIONA
 """
+MODIFIED BY mgi007
 Este programa imprime en pantalla los múltiplos de 5 menores que 25
 """
 

@@ -15,4 +15,12 @@ for i in range(1, 25, 1):
 for i in range(1, 25, 1):
         print(i)
 #midificado
+<<<<<<< HEAD
 #editado por mk13 team blugnesblug
+=======
+>>>>>>> 8d3d6b6e5d7e5ee1eabaf78145ef4b029c79dcde
+
+"""
+MODIFICADO POR SEGUNDA VEZ POR mgi007  PARA COLISION
+"""
+>>>>>>> 2468d914952647317b502aabc30878ff3050522c
